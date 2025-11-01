@@ -1,0 +1,11 @@
+# Requirements file for Python Job Test
+# This file will be synced as file_type='requirements'
+
+# No external dependencies for this simple test script
+# Standard library only: json, sys, datetime, pathlib
+
+# Example: If you want to add dependencies later:
+ pandas==2.0.0
+ requests==2.31.0
+ numpy==1.24.0
+
